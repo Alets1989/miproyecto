@@ -1,0 +1,23 @@
+.mi-barra{
+    font-family: 'Arial', sans-serif;
+    font-size: 1.75rem;
+    font-weight: bold;
+    color: #333;
+    text-transform: uppercase; /* Transforma el texto a mayúsculas */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Sombra del texto */
+}
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 1.6; 
+    align-items: center;
+    text-align: center;  
+    background-image: linear-gradient(
+        to bottom right,
+        #85C1E9 0%,
+        #76D7C4 20%,
+        #F4D03F 40%,
+        #F39C12 60%,
+        #E74C3C 80%
+    );
+}
